@@ -1,0 +1,47 @@
+*,
+html {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container {
+  display: block;
+  padding-top: 100px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+
+button {
+  display: flex;
+  width: 100px;
+  text-align: center;
+  vertical-align: middle;
+  padding: 0 10px;
+}
+
+#hover-to-hide {
+  padding: 25px;
+  background-color: aqua;
+}
+
+.red {
+  color: red;
+}
+
+.blue {
+  color: blue;
+}
+
+footer {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+.nav {
+    padding:0 2px;
+}
+a,
+:visited {
+    text-decoration: none;
+    color:black;
+}
